@@ -14,7 +14,7 @@
 | 12:20-12:50 | 12:20-12:50 | 12:20-17:30 |
 | 22:20-23:10 | 17:00-23:00 | 22:20-23:00 |
 
-- 🖥 使用中的操作系统
+- 🖥 Using OS
 
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
