@@ -26,9 +26,11 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jursin&theme=github-compact)
 
-[![Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares)
+![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=Jursin的%20GitHub%20统计数据！&number_format=long&theme=default)
 
-![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=Jursin的%20GitHub%20统计数据！&number_format=long&theme=gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jursin&layout=compact)](https://github.com/Jursin)
+
+[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
