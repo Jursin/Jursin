@@ -33,3 +33,28 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jursin)
+
+---
+
+<div align="center">
+
+🎉🌟软件推荐🌟🎉
+
+[![ClassIsland/ClassIsland](https://github-readme-stats.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland&show_owner=true)](https://github.com/ClassIsland/ClassIsland)
+[![EnderWolf006/ElectronClassSchedule](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=ElectronClassSchedule&show_owner=true)](https://github.com/EnderWolf006/ElectronClassSchedule)
+[![RinLit-233-shiroko/Class-Widgets](https://github-readme-stats.vercel.app/api/pin/?username=RinLit-233-shiroko&repo=Class-Widgets&show_owner=true)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![WXRIW/Ink-Canvas](https://github-readme-stats.vercel.app/api/pin/?username=WXRIW&repo=Ink-Canvas&show_owner=true)](https://github.com/WXRIW/Ink-Canvas)
+[![InkCanvas/Ink-Canvas-Artistry](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=Ink-Canvas-Artistry&show_owner=true)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
+[![InkCanvas/InkCanvasForClass](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=InkCanvasForClass&show_owner=true)](https://github.com/InkCanvas/InkCanvasForClass)
+[![Alan-CRL/智绘教Inkeys](https://github-readme-stats.vercel.app/api/pin/?username=Alan-CRL&repo=Inkeys&show_owner=true)](https://github.com/Alan-CRL/Inkeys)
+[![STBBRD/ZongziTEK黑板贴](https://github-readme-stats.vercel.app/api/pin/?username=STBBRD&repo=ZongziTEK-Blackboard-Sticker&show_owner=true)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
+[![HelloWRC/StickyHomeworks](https://github-readme-stats.vercel.app/api/pin/?username=HelloWRC&repo=StickyHomeworks&show_owner=true)](https://github.com/HelloWRC/StickyHomeworks)
+[![Sticky-attention/Sticky-attention](https://github-readme-stats.vercel.app/api/pin/?username=Sticky-attention&repo=Sticky-attention&show_owner=true)](https://github.com/Sticky-attention/Sticky-attention)
+[![EnderWolf006/HomeworkBoard](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=HomeworkBoard&show_owner=true)](https://github.com/EnderWolf006/HomeworkBoard)
+[![hello8693DSZ/DSZ考试看板](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=dsz-exam-showboard&show_owner=true)](https://github.com/hello8693DSZ/dsz-exam-showboard)
+[![ProjectCampus-CH/DSZ考试看板Next](https://github-readme-stats.vercel.app/api/pin/?username=ProjectCampus-CH&repo=dsz-exam-showboard-next&show_owner=true)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
+[![clansty/ClassTools](https://github-readme-stats.vercel.app/api/pin/?username=clansty&repo=ClassTools&show_owner=true)](https://github.com/clansty/ClassTools)
+[![SectionIstool/SectionIstool](https://github-readme-stats.vercel.app/api/pin/?username=SectionIstool&repo=SectionIstool&show_owner=true)](https://github.com/SectionIstool/SectionIstool)
+[![CNwenwen/SeewoHUB](https://github-readme-stats.vercel.app/api/pin/?username=CNwenwen&repo=SeewoHUB&show_owner=true)](https://github.com/CNwenwen/SeewoHUB)
+
+</div>
