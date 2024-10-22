@@ -1,4 +1,4 @@
-👋 Hi, 这是 Jursin ，一名高三生，除了不会写代码其它都了解一些 🤓
+👋 Hi, 这是 Jursin ，一名高三生
 
 📫 联系我:
   - E-mai netshell53@gmail.com
