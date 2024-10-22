@@ -3,9 +3,13 @@
 📫 联系我:
   - E-mai netshell53@gmail.com
   - Telegram https://t.me/Hello_Jursin
+  - QQ https://qm.qq.com/q/JpIhKxU5Uc
+
+🎬 视频平台：
   - bilibili https://space.bilibili.com/1575907920
   - 抖音 https://www.douyin.com/user/MS4wLjABAAAAQGQcpmhfTWT-dnMkBX1Dtdw4mqk-WUPiz1Stbb5nn7Q
-- 📬 休息时间：
+
+📬 休息时间：
 
 | **Monday~Friday** | **Saturday** | **Sunday** |
 | - | - | - |
@@ -35,7 +39,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jursin)
 
 ---
-🌟软件推荐🌟🎉
+🎉🌟软件推荐🌟🎉
 
 [![ClassIsland/ClassIsland](https://github-readme-stats.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland&show_owner=true)](https://github.com/ClassIsland/ClassIsland)
 
