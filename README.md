@@ -28,7 +28,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jursin&theme=github-compact)
 
-![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&custom_title=Jursin的%20GitHub%20统计数据！&number_format=long&theme=default)
+![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&custom_title=Jursin%E7%9A%84%20GitHub%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%EF%BC%81&number_format=long&theme=default)
 
 [![bilibili 统计数据](https://stats.justsong.cn/api/bilibili/?id=1575907920)](https://space.bilibili.com/1575907920)
 
