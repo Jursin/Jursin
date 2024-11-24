@@ -30,13 +30,7 @@
 
 ![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&custom_title=Jursin%E7%9A%84%20GitHub%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%EF%BC%81&number_format=long&theme=default)
 
-[![bilibili 统计数据](https://stats.justsong.cn/api/bilibili/?id=1575907920)](https://space.bilibili.com/1575907920)
-
-[![GitHub 统计数据](https://stats.justsong.cn/api/github?username=jursin)](https://github.com/Jursin)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jursin&layout=compact)](https://github.com/Jursin)
-
-[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
