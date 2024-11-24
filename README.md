@@ -46,3 +46,27 @@
 [![RinLit-233-shiroko/Class-Widgets](https://github-readme-stats.vercel.app/api/pin/?username=RinLit-233-shiroko&repo=Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 
 [![WXRIW/Ink-Canvas](https://github-readme-stats.vercel.app/api/pin/?username=WXRIW&repo=Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas)
+
+[![InkCanvas/Ink-Canvas-Artistry](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=Ink-Canvas-Artistry)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
+
+[![InkCanvas/InkCanvasForClass](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
+
+[![Alan-CRL/智绘教Inkeys](https://github-readme-stats.vercel.app/api/pin/?username=Alan-CRL&repo=Inkeys)](https://github.com/Alan-CRL/Inkeys)
+
+[![STBBRD/ZongziTEK黑板贴](https://github-readme-stats.vercel.app/api/pin/?username=STBBRD&repo=ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
+
+[![HelloWRC/StickyHomeworks](https://github-readme-stats.vercel.app/api/pin/?username=HelloWRC&repo=StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
+
+[![Sticky-attention/Sticky-attention](https://github-readme-stats.vercel.app/api/pin/?username=Sticky-attention&repo=Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
+
+[![EnderWolf006/HomeworkBoard](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
+
+[![hello8693DSZ/DSZ考试看板](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard)
+
+[![ProjectCampus-CH/DSZ考试看板Next](https://github-readme-stats.vercel.app/api/pin/?username=ProjectCampus-CH&repo=dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
+
+[![clansty/ClassTools](https://github-readme-stats.vercel.app/api/pin/?username=clansty&repo=ClassTools)](https://github.com/clansty/ClassTools)
+
+[![SectionIstool/SectionIstool](https://github-readme-stats.vercel.app/api/pin/?username=SectionIstool&repo=SectionIstool)](https://github.com/SectionIstool/SectionIstool)
+
+[![CNwenwen/SeewoHUB](https://github-readme-stats.vercel.app/api/pin/?username=CNwenwen&repo=SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
