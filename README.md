@@ -46,11 +46,3 @@
 [![RinLit-233-shiroko/Class-Widgets](https://github-readme-stats.vercel.app/api/pin/?username=RinLit-233-shiroko&repo=Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 
 [![WXRIW/Ink-Canvas](https://github-readme-stats.vercel.app/api/pin/?username=WXRIW&repo=Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas)
-
-[![InkCanvas/Ink-Canvas-Artistry](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=Ink-Canvas-Artistry)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
-
-[![InkCanvas/InkCanvasForClass](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-
-[![Alan-CRL/智绘教Inkeys](https://github-readme-stats.vercel.app/api/pin/?username=Alan-CRL&repo=Inkeys)](https://github.com/Alan-CRL/Inkeys)
-
-[![STBBRD/ZongziTEK黑板贴](https://github-readme-stats.vercel.app/api/pin/?username=STBBRD&repo=ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
