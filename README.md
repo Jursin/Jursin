@@ -55,15 +55,13 @@
 
 [![STBBRD/ZongziTEK黑板贴](https://github-readme-stats.vercel.app/api/pin/?username=STBBRD&repo=ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 
-[![HelloWRC/StickyHomeworks](https://github-readme-stats.vercel.app/api/pin/?username=HelloWRC&repo=StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
-
 [![Sticky-attention/Sticky-attention](https://github-readme-stats.vercel.app/api/pin/?username=Sticky-attention&repo=Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
 
 [![EnderWolf006/HomeworkBoard](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
 
-[![hello8693DSZ/DSZ考试看板](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=dsz-exam-showboard)](https://github.com/hello8693DSZ/dsz-exam-showboard)
+[![ExamAware/考试看板](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
 
-[![ProjectCampus-CH/DSZ考试看板Next](https://github-readme-stats.vercel.app/api/pin/?username=ProjectCampus-CH&repo=dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
+[![ProjectCampus-CH/考试看板Next](https://github-readme-stats.vercel.app/api/pin/?username=ProjectCampus-CH&repo=dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
 
 [![clansty/ClassTools](https://github-readme-stats.vercel.app/api/pin/?username=clansty&repo=ClassTools)](https://github.com/clansty/ClassTools)
 
