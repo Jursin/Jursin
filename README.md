@@ -41,9 +41,12 @@
 
 [![ClassIsland/ClassIsland](https://github-readme-stats.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 
-[![EnderWolf006/ElectronClassSchedule](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
-
 [![RinLit-233-shiroko/Class-Widgets](https://github-readme-stats.vercel.app/api/pin/?username=RinLit-233-shiroko&repo=Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+
+
+[![Ris-Soft/ris_classtool](https://github-readme-stats.vercel.app/api/pin/?username=Ris-Soft&repo=ris_classtool)](https://github.com/Ris-Soft/ris_classtool)
+
+[![EnderWolf006/ElectronClassSchedule](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
 
 [![WXRIW/Ink-Canvas](https://github-readme-stats.vercel.app/api/pin/?username=WXRIW&repo=Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas)
 
