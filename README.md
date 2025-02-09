@@ -35,39 +35,3 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jursin)
-
----
-🎉🌟软件推荐🌟🎉
-
-[![ClassIsland/ClassIsland](https://github-readme-stats.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland)](https://github.com/ClassIsland/ClassIsland)
-
-[![RinLit-233-shiroko/Class-Widgets](https://github-readme-stats.vercel.app/api/pin/?username=RinLit-233-shiroko&repo=Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-
-
-[![Ris-Soft/ris_classtool](https://github-readme-stats.vercel.app/api/pin/?username=Ris-Soft&repo=ris_classtool)](https://github.com/Ris-Soft/ris_classtool)
-
-[![EnderWolf006/ElectronClassSchedule](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
-
-[![WXRIW/Ink-Canvas](https://github-readme-stats.vercel.app/api/pin/?username=WXRIW&repo=Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas)
-
-[![InkCanvas/Ink-Canvas-Artistry](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=Ink-Canvas-Artistry)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
-
-[![InkCanvas/InkCanvasForClass](https://github-readme-stats.vercel.app/api/pin/?username=InkCanvas&repo=InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-
-[![Alan-CRL/智绘教Inkeys](https://github-readme-stats.vercel.app/api/pin/?username=Alan-CRL&repo=Inkeys)](https://github.com/Alan-CRL/Inkeys)
-
-[![STBBRD/ZongziTEK黑板贴](https://github-readme-stats.vercel.app/api/pin/?username=STBBRD&repo=ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-
-[![Sticky-attention/Sticky-attention](https://github-readme-stats.vercel.app/api/pin/?username=Sticky-attention&repo=Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
-
-[![EnderWolf006/HomeworkBoard](https://github-readme-stats.vercel.app/api/pin/?username=EnderWolf006&repo=HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
-
-[![ExamAware/考试看板](https://github-readme-stats.vercel.app/api/pin/?username=ExamAware&repo=dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
-
-[![ProjectCampus-CH/考试看板Next](https://github-readme-stats.vercel.app/api/pin/?username=ProjectCampus-CH&repo=dsz-exam-showboard-next)](https://github.com/ProjectCampus-CH/dsz-exam-showboard-next)
-
-[![clansty/ClassTools](https://github-readme-stats.vercel.app/api/pin/?username=clansty&repo=ClassTools)](https://github.com/clansty/ClassTools)
-
-[![SectionIstool/SectionIstool](https://github-readme-stats.vercel.app/api/pin/?username=SectionIstool&repo=SectionIstool)](https://github.com/SectionIstool/SectionIstool)
-
-[![CNwenwen/SeewoHUB](https://github-readme-stats.vercel.app/api/pin/?username=CNwenwen&repo=SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
