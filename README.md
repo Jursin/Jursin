@@ -1,9 +1,9 @@
 👋 Hi, 这是 Jursin ，一名高三生
 
 📫 联系我:
+  - QQ https://qm.qq.com/q/JpIhKxU5Uc
   - E-mai netshell53@gmail.com
   - Telegram https://t.me/Hello_Jursin
-  - QQ https://qm.qq.com/q/JpIhKxU5Uc
 
 🎬 视频平台：
   - bilibili https://space.bilibili.com/1575907920
@@ -14,7 +14,7 @@
 | **Monday~Friday** | **Saturday** | **Sunday** |
 | - | - | - |
 | 12:20-12:50 | 12:20-12:50 | 12:20-17:30 |
-| 22:10-23:10 | 17:00-23:00 | 22:10-23:00 |
+| 22:20-23:00 | 17:10-23:00 | 22:20-23:00 |
 
 - 🖥 使用的操作系统：
 
