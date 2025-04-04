@@ -7,8 +7,9 @@
 [![Gmail](https://img.shields.io/badge/-netshell53-blue?style=flat&logo=gmail&logoColor=white)](mailto:netshell53@gmail.com)
 
 🎬 视频平台：
-  - bilibili https://space.bilibili.com/1575907920
-  - 抖音 https://www.douyin.com/user/MS4wLjABAAAAQGQcpmhfTWT-dnMkBX1Dtdw4mqk-WUPiz1Stbb5nn7Q
+
+[![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9CHello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
+[![Douyin](https://img.shields.io/badge/-Jursin-black?style=flat&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAQGQcpmhfTWT-dnMkBX1Dtdw4mqk-WUPiz1Stbb5nn7Q) 
 
 📬 休息时间：
 
