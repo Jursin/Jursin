@@ -1,9 +1,10 @@
 👋 Hi, 这是 Jursin ，一名高三生
 
 📫 联系我:
-  - QQ https://qm.qq.com/q/JpIhKxU5Uc
-  - E-mai netshell53@gmail.com
-  - Telegram https://t.me/Hello_Jursin
+
+[![QQ](https://img.shields.io/badge/-Jursin-blue?logo=QQ&logoColor=white&style=flat)](https://qm.qq.com/q/JpIhKxU5Uc)
+[![Telegram](https://img.shields.io/badge/-Hello__Jursin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Hello_Jurisn)
+[![Gmail](https://img.shields.io/badge/-netshell53-blue?style=flat&logo=gmail&logoColor=white)](mailto:netshell53@gmail.com)
 
 🎬 视频平台：
   - bilibili https://space.bilibili.com/1575907920
