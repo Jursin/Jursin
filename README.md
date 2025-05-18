@@ -1,8 +1,6 @@
-<div align="center">
-
 👋 Hi, 这是 Jursin ，一名即将参加高考的高中生
 
-<iframe src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2025年高考&d=2025-06-07&bt=&at=">
+![高考](https://img.shields.io/static/v1?label=高考&message=2025年6月7日&color=red)
 
 🎯 高考后暑假目标
 - 重构 [Awesome-Class-Softwares-Web](https://jursin.github.io/Awesome-Class-Softwares-Web/) ，并继续添加项目
@@ -10,8 +8,7 @@
 - 尝试搭建聚合类导航站
 - 尝试用 Minecraft 还原学校校区（旧＆新）
 
-</div>
-
+---
 📫 联系我:
 
 [![QQ](https://img.shields.io/badge/-Jursin-%230099FF?logo=QQ&logoColor=white&style=flat)](https://qm.qq.com/q/JpIhKxU5Uc)
@@ -44,8 +41,7 @@
 
   <img src="https://hitevision.com/themes/hhkj/public/assets/images/logo.svg" alt="Hitevision Logo" height="20">
 
-<div align="center">
-
+---
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jursin&theme=github-compact)
 
 ![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&custom_title=Jursin%E7%9A%84%20GitHub%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%EF%BC%81&number_format=long&theme=default)
@@ -55,5 +51,3 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jursin)
-
-</div>
