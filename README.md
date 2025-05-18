@@ -1,4 +1,16 @@
-👋 Hi, 这是 Jursin ，一名高三生
+<div align="center">
+
+👋 Hi, 这是 Jursin ，一名即将参加高考的高中生
+
+<iframe src="https://www.widgets.link/#/count-down-05?mc=333333&sc=8D9BAF&nc=17A0F5&bg=&cbg=FFFFFF&br=20&_b=true&t=2025年高考&d=2025-06-07&bt=&at=">
+
+🎯 高考后暑假目标
+- 重构 [Awesome-Class-Softwares-Web](https://jursin.github.io/Awesome-Class-Softwares-Web/) ，并继续添加项目
+- 尝试搭建新学校官网（非官方）
+- 尝试搭建聚合类导航站
+- 尝试用 Minecraft 还原学校校区（旧＆新）
+
+</div>
 
 📫 联系我:
 
@@ -16,17 +28,23 @@
 | **Monday~Friday** | **Saturday** | **Sunday** |
 | - | - | - |
 | 12:20-12:50 | 12:20-12:50 | 12:20-17:30 |
-| 22:20-23:00 | 17:10-23:00 | 22:20-23:00 |
+| 22:20-22:50 | 17:00-23:00 | 22:20-22:50 |
 
-- 🖥 使用的操作系统：
+- 使用的操作系统：
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik02LDZoMTd2MTdINlY2eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNS4wNDIsMjIuOTU4VjZINDJ2MTYuOTU4SDI1LjA0MnoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNiwyNWgxN3YxN0g2VjI1eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNSw0MlYyNWgxN3YxN0gyNXoiLz48L3N2Zz4=)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik02LDZoMTd2MTdINlY2eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNS4wNDIsMjIuOTU4VjZINDJ2MTYuOTU4SDI1LjA0MnoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNiwyNWgxN3YxN0g2VjI1eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNSw0MlYyNWgxN3YxN0gyNXoiLz48L3N2Zz4=)
 
 - 使用的设备：
 
-![Redmi](https://img.shields.io/badge/Redmi_Note_9-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
-![Lenovo](https://img.shields.io/badge/IdeaPad_15_ALC7-%23DA0807?style=flat&logo=lenovo&logoColor=white)
+  ![Redmi](https://img.shields.io/badge/Redmi_Note_9-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
+  ![Lenovo](https://img.shields.io/badge/IdeaPad_15_ALC7-%23DA0807?style=flat&logo=lenovo&logoColor=white)
+
+- 使用的班级一体机
+
+  <img src="https://hitevision.com/themes/hhkj/public/assets/images/logo.svg" alt="Hitevision Logo" height="20">
+
+<div align="center">
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jursin&theme=github-compact)
 
@@ -37,3 +55,5 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jursin)
+
+</div>
