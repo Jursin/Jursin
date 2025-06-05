@@ -20,13 +20,6 @@
 [![bilibili](https://img.shields.io/badge/-Hello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
 [![Douyin](https://img.shields.io/badge/-Jursin-black?style=flat&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAQGQcpmhfTWT-dnMkBX1Dtdw4mqk-WUPiz1Stbb5nn7Q) 
 
-📬 休息时间：
-
-| **Monday~Friday** | **Saturday** | **Sunday** |
-| - | - | - |
-| 12:20-12:50 | 12:20-12:50 | 12:20-17:30 |
-| 22:20-22:50 | 17:00-23:00 | 22:20-22:50 |
-
 - 使用的操作系统：
 
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -37,7 +30,7 @@
   ![Redmi](https://img.shields.io/badge/Redmi_Note_9-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
   ![Lenovo](https://img.shields.io/badge/IdeaPad_15_ALC7-%23DA0807?style=flat&logo=lenovo&logoColor=white)
 
-- 使用的班级一体机
+- 使用的班级一体机（已为曾经）
 
   <img src="https://hitevision.com/themes/hhkj/public/assets/images/logo.svg" alt="Hitevision Logo" height="20">
 
