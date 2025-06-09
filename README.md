@@ -1,7 +1,5 @@
 👋 Hi, 这是 Jursin ，一名刚刚毕业的高中生
 
-![高考](https://img.shields.io/static/v1?label=高考&message=2025年6月7日&color=red)
-
 🎯 高考暑假目标
 - 重构 [Awesome-Class-Softwares-Web](https://jursin.github.io/Awesome-Class-Softwares-Web/) ，并继续添加项目
 - 尝试搭建新学校官网（非官方）
@@ -27,7 +25,7 @@
 
 - 使用的设备：
 
-  ![Redmi](https://img.shields.io/badge/Redmi_Xiaomi_15_Pro-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
+  ![Xiaomi](https://img.shields.io/badge/Xiaomi_15_Pro-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
   ![Lenovo](https://img.shields.io/badge/IdeaPad_15_ALC7-%23DA0807?style=flat&logo=lenovo&logoColor=white)
 
 - 使用的班级一体机（已为曾经）
