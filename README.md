@@ -21,6 +21,7 @@
 - 使用的操作系统：
 
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white )
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik02LDZoMTd2MTdINlY2eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNS4wNDIsMjIuOTU4VjZINDJ2MTYuOTU4SDI1LjA0MnoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNiwyNWgxN3YxN0g2VjI1eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNSw0MlYyNWgxN3YxN0gyNXoiLz48L3N2Zz4=)
 
 - 使用的设备：
