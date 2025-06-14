@@ -1,11 +1,5 @@
 👋 Hi, 这是 Jursin ，一名刚刚毕业的高中生
 
-🎯 高考暑假目标
-- 重构 [Awesome-Class-Softwares-Web](https://jursin.github.io/Awesome-Class-Softwares-Web/) ，并继续添加项目
-- 尝试搭建新学校官网（非官方）
-- 尝试搭建聚合类导航站
-- 尝试用 Minecraft 还原学校校区（旧＆新）
-
 ---
 📫 联系我:
 
