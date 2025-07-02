@@ -32,7 +32,7 @@
 
 ![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&custom_title=Jursin%E7%9A%84%20GitHub%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%EF%BC%81&number_format=long&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jursin&layout=compact)](https://github.com/Jursin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jursin)](https://github.com/Jursin)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
