@@ -34,7 +34,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jursin&theme=github-compact)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jursin&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&custom_title=Jursin%E7%9A%84%20GitHub%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%EF%BC%81&number_format=long&theme=default" alt="GitHub 统计数据">
-<img src="https://github-readme-stats.vercel.app/api?username=candlest&show_icons=true&line_height=40" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jursin" alt="Top Langs">
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Jursin)
 
