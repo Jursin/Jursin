@@ -21,7 +21,7 @@
 - 使用的设备：
 
   ![Xiaomi](https://img.shields.io/badge/Xiaomi_15_Pro-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
-  ![Lenovo](https://img.shields.io/badge/IdeaPad_15_ALC7-%23DA0807?style=flat&logo=lenovo&logoColor=white)
+  ![ASUS](https://img.shields.io/badge/%E5%8D%8E%E7%A1%95%E5%A4%A9%E9%80%896_Pro-%235EEBDE?style=flat&logo=asus&logoColor=white)
 
 - 使用的班级一体机（已为曾经）
 
