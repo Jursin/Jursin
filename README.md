@@ -5,7 +5,7 @@
 
 [![QQ](https://img.shields.io/badge/-Jursin-%230099FF?logo=QQ&logoColor=white&style=flat)](https://qm.qq.com/q/JpIhKxU5Uc)
 [![Telegram](https://img.shields.io/badge/-Hello__Jursin-%232BA3D5?style=flat&logo=Telegram&logoColor=white)](https://t.me/Hello_Jurisn)
-[![Gmail](https://img.shields.io/badge/-netshell53-%234999FF?style=flat&logo=gmail&logoColor=white)](mailto:netshell53@gmail.com)
+[![mail](https://img.shields.io/badge/-jursin@126.com-blue?style=flat&logo=mailboxdotorg&logoColor=white)](mailto:jursin@126.com)
 
 🎬 视频平台：
 
