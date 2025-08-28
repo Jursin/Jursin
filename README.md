@@ -23,7 +23,7 @@
   ![Xiaomi](https://img.shields.io/badge/Xiaomi_15_Pro-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
   ![ASUS](https://img.shields.io/badge/%E5%8D%8E%E7%A1%95%E5%A4%A9%E9%80%896_Pro-%235EEBDE?style=flat&logo=asus&logoColor=white)
 
-- 使用的班级一体机（已为曾经）
+- 曾经使用的班级一体机
 
   <img src="https://hitevision.com/themes/hhkj/public/assets/images/logo.svg" alt="Hitevision Logo" height="20">
 
