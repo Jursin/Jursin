@@ -1,16 +1,6 @@
-👋 Hi, 这是 Jursin ，一名准大一新生
+👋 Hi, 这是 Jursin ，一名大一学生
 
 ---
-📫 联系我:
-
-[![QQ](https://img.shields.io/badge/-Jursin-%230099FF?logo=QQ&logoColor=white&style=flat)](https://qm.qq.com/q/JpIhKxU5Uc)
-[![Telegram](https://img.shields.io/badge/-Hello__Jursin-%232BA3D5?style=flat&logo=Telegram&logoColor=white)](https://t.me/Hello_Jurisn)
-[![mail](https://img.shields.io/badge/-jursin@126.com-blue?style=flat&logo=mailboxdotorg&logoColor=white)](mailto:jursin@126.com)
-
-🎬 视频平台：
-
-[![bilibili](https://img.shields.io/badge/-Hello__Jursin-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
-[![Douyin](https://img.shields.io/badge/-Jursin-black?style=flat&logo=tiktok)](https://www.douyin.com/user/MS4wLjABAAAAQGQcpmhfTWT-dnMkBX1Dtdw4mqk-WUPiz1Stbb5nn7Q) 
 
 - 使用的操作系统：
 
@@ -22,10 +12,6 @@
 
   ![Xiaomi](https://img.shields.io/badge/Xiaomi_15_Pro-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
   ![ASUS](https://img.shields.io/badge/%E5%8D%8E%E7%A1%95%E5%A4%A9%E9%80%896_Pro-%235EEBDE?style=flat&logo=asus&logoColor=white)
-
-- 曾经使用的班级一体机
-
-  <img src="https://hitevision.com/themes/hhkj/public/assets/images/logo.svg" alt="Hitevision Logo" height="20">
 
 ---
 
