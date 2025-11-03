@@ -13,6 +13,20 @@
   ![Xiaomi](https://img.shields.io/badge/Xiaomi_15_Pro-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
   ![ASUS](https://img.shields.io/badge/%E5%8D%8E%E7%A1%95%E5%A4%A9%E9%80%896_Pro-%235EEBDE?style=flat&logo=asus&logoColor=white)
 
+- 使用的编程语言：
+
+  ![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+
+- 使用的开发工具：
+
+  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiMyOWI2ZjYiIGQ9Ik00NCwxMS4xMXYyNS43OGMwLDEuMjctMC43OSwyLjQtMS45OCwyLjgybC04LjgyLDQuMTRMMzQsMzNWMTVMMzMuMiw0LjE1bDguODIsNC4xNCBDNDMuMjEsOC43MSw0NCw5Ljg0LDQ0LDExLjExeiIvPjxwYXRoIGZpbGw9IiMwMjc3YmQiIGQ9Ik05LDMzLjg5NkwzNCwxNVY1LjM1M2MwLTEuMTk4LTEuNDgyLTEuNzU4LTIuMjc1LTAuODZMNC42NTgsMjkuMjM5IGMtMC45LDAuODMtMC44NDksMi4yNjcsMC4xMDcsMy4wMzJjMCwwLDEuMzI0LDEuMjMyLDEuODAzLDEuNTc0QzcuMzA0LDM0LjM3LDguMjcxLDM0LjQzLDksMzMuODk2eiIvPjxwYXRoIGZpbGw9IiMwMjg4ZDEiIGQ9Ik05LDE0LjEwNEwzNCwzM3Y5LjY0N2MwLDEuMTk4LTEuNDgyLDEuNzU4LTIuMjc1LDAuODZMNC42NTgsMTguNzYxIGMtMC45LTAuODMtMC44NDktMi4yNjcsMC4xMDctMy4wMzJjMCwwLDEuMzI0LTEuMjMyLDEuODAzLTEuNTc0QzcuMzA0LDEzLjYzLDguMjcxLDEzLjU3LDksMTQuMTA0eiIvPjwvc3ZnPg==)
+
+- 使用的静态网站框架
+
+  ![VuePress](https://img.shields.io/badge/Vue-green?style=flat&logo=vuedotjs&logoColor=white)
+  ![VitePress](https://img.shields.io/badge/VitePress-cyan?style=flat&logo=vitepress&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-purple?style=flat&logo=astro&logoColor=white)
 ---
 
 <div align="center">
