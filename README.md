@@ -24,7 +24,7 @@
 
 - 使用的静态网站框架
 
-  ![VuePress](https://img.shields.io/badge/Vue-green?style=flat&logo=vuedotjs&logoColor=white)
+  ![VuePress](https://img.shields.io/badge/VuePress-green?style=flat&logo=vuedotjs&logoColor=white)
   ![VitePress](https://img.shields.io/badge/VitePress-cyan?style=flat&logo=vitepress&logoColor=white)
   ![Astro](https://img.shields.io/badge/Astro-purple?style=flat&logo=astro&logoColor=white)
 ---
