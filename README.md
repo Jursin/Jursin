@@ -13,9 +13,13 @@
   ![Xiaomi](https://img.shields.io/badge/Xiaomi_15_Pro-%23FF7E00?style=flat&logo=xiaomi&logoColor=white)
   ![ASUS](https://img.shields.io/badge/%E5%8D%8E%E7%A1%95%E5%A4%A9%E9%80%896_Pro-%235EEBDE?style=flat&logo=asus&logoColor=white)
 
-- 使用的编程语言：
+- 技术栈：
 
+  ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-purple?style=flat&logo=css&logoColor=white)
+  ![Vue](https://img.shields.io/badge/Vue-green?style=flat&logo=vuedotjs&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-blue?style=flat&logo=markdown&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 
 - 使用的开发工具：
