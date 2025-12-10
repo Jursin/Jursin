@@ -38,11 +38,15 @@
 ---
 
 <div align="center">
-  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jursin&theme=github-compact&title_color=26A641&custom_title=Jursin%20%E7%9A%84%20GitHub%20%E8%B4%A1%E7%8C%AE%E5%9B%BE%E8%A1%A8&radius=8)
 
-<img src="https://github-readme-stats-indol-phi-94.vercel.app/api?username=Jursin&show=reviews,prs_merged&show_icons=true&include_all_commits=true&count_private=true&number_format=long&theme=transparent&locale=cn" />
-<img src="https://github-readme-stats-indol-phi-94.vercel.app/api/top-langs/?username=Jursin&theme=transparent&locale=cn" />
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=127487914" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=127487914&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Jursin" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=127487914&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 <img src="https://github-readme-stats-indol-phi-94.vercel.app/api/wakatime?username=Jursin&card_width=400&theme=transparent&locale=cn" alt="wakatime">
 <img src="https://github-readme-streak-stats-one-azure.vercel.app?user=Jursin&card_width=400&theme=transparent&locale=zh_Hans" alt="GitHub Streak">
