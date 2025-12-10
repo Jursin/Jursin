@@ -1,5 +1,9 @@
 👋 Hi, 这是 Jursin ，一名大一学生
 
+[![Homepage](https://img.shields.io/badge/Homepage%20%e2%86%97-2CA5E0?style=flat&color=black&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZTRmZGZmIiBkPSJNMTIgMjJDNi40NzcgMjIgMiAxNy41MjMgMiAxMlM2LjQ3NyAyIDEyIDJzMTAgNC40NzcgMTAgMTBzLTQuNDc3IDEwLTEwIDEwbS0yLjI5LTIuMzMzQTE3LjkgMTcuOSAwIDAgMSA4LjAyNyAxM0g0LjA2MmE4LjAxIDguMDEgMCAwIDAgNS42NDggNi42NjdNMTAuMDMgMTNjLjE1MSAyLjQzOS44NDggNC43MyAxLjk3IDYuNzUyQTE1LjkgMTUuOSAwIDAgMCAxMy45NyAxM3ptOS45MDggMGgtMy45NjVhMTcuOSAxNy45IDAgMCAxLTEuNjgzIDYuNjY3QTguMDEgOC4wMSAwIDAgMCAxOS45MzggMTNNNC4wNjIgMTFoMy45NjVBMTcuOSAxNy45IDAgMCAxIDkuNzEgNC4zMzNBOC4wMSA4LjAxIDAgMCAwIDQuMDYyIDExbTUuOTY5IDBoMy45MzhBMTUuOSAxNS45IDAgMCAwIDEyIDQuMjQ4QTE1LjkgMTUuOSAwIDAgMCAxMC4wMyAxMW00LjI1OS02LjY2N0ExNy45IDE3LjkgMCAwIDEgMTUuOTczIDExaDMuOTY1YTguMDEgOC4wMSAwIDAgMC01LjY0OC02LjY2NyIvPjwvc3ZnPg==)](https://jursin.com/)
+[![Blog](https://img.shields.io/badge/Blog%20%e2%86%97-2CA5E0?style=flat&color=black&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZmlsbD0iI2U0ZmRmZiIgZD0iTTE3Mi4yIDIyNi44Yy0xNC42LTIuOS0yOC4yIDguOS0yOC4yIDIzLjhWMzAxYzAgMTAuMiA3LjEgMTguNCAxNi43IDIyYzE4LjIgNi44IDMxLjMgMjQuNCAzMS4zIDQ1YzAgMjYuNS0yMS41IDQ4LTQ4IDQ4cy00OC0yMS41LTQ4LTQ4VjEyMGMwLTEzLjMtMTAuNy0yNC0yNC0yNEgyNGMtMTMuMyAwLTI0IDEwLjctMjQgMjR2MjQ4YzAgODkuNSA4Mi4xIDE2MC4yIDE3NSAxNDAuN2M1NC40LTExLjQgOTguMy01NS40IDEwOS43LTEwOS43YzE3LjQtODIuOS0zNy0xNTcuMi0xMTIuNS0xNzIuMk0yMDkgMGMtOS4yLS41LTE3IDYuOC0xNyAxNnYzMS42YzAgOC41IDYuNiAxNS41IDE1IDE1LjljMTI5LjQgNyAyMzMuNCAxMTIgMjQwLjkgMjQxLjVjLjUgOC40IDcuNSAxNSAxNS45IDE1aDMyLjFjOS4yIDAgMTYuNS03LjggMTYtMTdDNTAzLjQgMTM5LjggMzcyLjIgOC42IDIwOSAwbS4zIDk2Yy05LjMtLjctMTcuMyA2LjctMTcuMyAxNi4xdjMyLjFjMCA4LjQgNi41IDE1LjMgMTQuOCAxNS45Yzc2LjggNi4zIDEzOCA2OC4yIDE0NC45IDE0NS4yYy44IDguMyA3LjYgMTQuNyAxNS45IDE0LjdoMzIuMmM5LjMgMCAxNi44LTggMTYuMS0xNy4zYy04LjQtMTEwLjEtOTYuNS0xOTguMi0yMDYuNi0yMDYuNyIvPjwvc3ZnPg==)](https://blog.jursin.com/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJursin&label=Visitors&countColor=%23263759&style=flat&labelStyle=none)
+
 ---
 
 - 使用的操作系统：
@@ -19,6 +23,7 @@
   ![HTML](https://img.shields.io/badge/HTML-E65100?style=flat&logo=html5&logoColor=white)
   ![Css](https://img.shields.io/badge/CSS-7E57C2?style=flat&logo=css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=flat&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3473A8?style=flat&logo=python&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white)
