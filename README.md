@@ -48,8 +48,7 @@
 <img src="https://github-readme-stats-indol-phi-94.vercel.app/api?username=Jursin&show=reviews,prs_merged&show_icons=true&include_all_commits=true&count_private=true&number_format=long&theme=transparent&locale=cn" />
 <img src="https://github-readme-stats-indol-phi-94.vercel.app/api/top-langs/?username=Jursin&theme=transparent&locale=cn" />
 
-<img src="https://github-readme-stats-indol-phi-94.vercel.app/api/wakatime?username=Jursin&card_width=400&theme=transparent&locale=cn" alt="wakatime">
-<img src="https://github-readme-streak-stats-one-azure.vercel.app?user=Jursin&card_width=400&theme=transparent&locale=zh_Hans" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats-one-azure.vercel.app?user=Jursin&theme=transparent&locale=zh_Hans" alt="GitHub Streak">
 
 ![GitHub Trophy](https://github-profile-trophy-amber-phi.vercel.app/?username=Jursin&no-bg=true)
 
