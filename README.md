@@ -24,6 +24,8 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=flat&logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)
+  ![Nodejs](https://img.shields.io/badge/Nodejs-8bc34a?style=flat&logo=nodedotjs&logoColor=white)
+  ![Electron](https://img.shields.io/badge/electron-9feaf9?style=flat&logo=electron&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3473A8?style=flat&logo=python&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white)
 
